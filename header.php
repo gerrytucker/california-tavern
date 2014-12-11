@@ -9,7 +9,14 @@
 
 		<div class="row">
 			<div class="col-sm-6 col-md-6 col-lg-6">
-				<h1><?php bloginfo('name'); ?></h1>
+				<div class="box-row">
+					<h1><?php bloginfo('name'); ?></h1>
+				</div>
 			</div>
-			<div class="col-sm-6 col-md-6 col-lg-6"></div>
+			<div class="col-sm-6 col-md-6 col-lg-6">
+				<div class="box-row">
+					<h1><?php bloginfo('name'); ?></h1>
+				</div>
+			</div>
 		</div>
+		
