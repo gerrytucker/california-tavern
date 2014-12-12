@@ -8,15 +8,11 @@
 	<body>
 
 		<div class="row">
-			<div class="col-sm-6 col-md-6 col-lg-6">
-				<div class="box-row">
-					<h1><?php bloginfo('name'); ?></h1>
-				</div>
+			<div class="large-6 columns">
+				<h1><?php bloginfo('name'); ?></h1>
 			</div>
-			<div class="col-sm-6 col-md-6 col-lg-6">
-				<div class="box-row">
-					<h1><?php bloginfo('name'); ?></h1>
-				</div>
+			<div class="large-6 columns">
+				<h1><?php bloginfo('name'); ?></h1>
 			</div>
 		</div>
 		
