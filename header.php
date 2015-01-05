@@ -11,8 +11,10 @@
 </head>
 <body>
 
-  <div id="intro" class="row">
-    <div class="col-lg-12">
-      <h1>California<br>Tavern</h1>
+  <div id="intro">
+    <div class="row">
+      <div class="col-lg-12">
+        <h1>California<br>Tavern</h1>
+      </div>
     </div>
   </div>
