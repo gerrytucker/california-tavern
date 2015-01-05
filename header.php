@@ -13,8 +13,24 @@
 
   <div id="intro">
     <div class="row">
-      <div class="col-lg-12">
+      <div class="col-lg-6">
         <h1>California<br>Tavern</h1>
+      </div>
+      <div class="col-lg-6">
+        <ul class="inline-list">
+          <li>
+            <a href="#">Food</a>
+          </li>
+          <li>
+            <a href="#">Music</a>
+          </li>
+          <li>
+            <a href="#">History</a>
+          </li>
+          <li>
+            <a href="#">Pool Team</a>
+          </li>
+        </ul>
       </div>
     </div>
   </div>
