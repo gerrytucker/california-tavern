@@ -13,10 +13,10 @@
 
   <div id="intro">
     <div class="row">
-      <div class="col-lg-6">
+      <div class="large-6 columns">
         <h1>California<br>Tavern</h1>
       </div>
-      <div class="col-lg-6">
+      <div class="large-6 columns">
         <ul class="inline-list">
           <li>
             <a href="#">Food</a>
