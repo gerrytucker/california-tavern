@@ -6,13 +6,9 @@
 
 <?php get_header(); ?>
 
-  <div id="intro" class="grey darken-4">
-    <div class="container">
-      <div class="row">
-        <div class="col s12 m12 l12 red-text text-darken-3">
-          <h1>California<br>Tavern</h1>
-        </div>
-      </div>
+  <div id="intro" class="row">
+    <div class="col-lg-12">
+      <h1>California<br>Tavern</h1>
     </div>
   </div>
 
