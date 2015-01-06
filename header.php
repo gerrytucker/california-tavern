@@ -31,7 +31,7 @@
             <a href="#events">Events</a>
           </li>
           <li>
-            <a href="#">Pool Team</a>
+            <a href="#contact">Contact Us</a>
           </li>
         </ul>
       </div>
