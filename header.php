@@ -11,7 +11,7 @@
 </head>
 <body>
 
-  <div id="intro">
+  <nav>
     <div class="row">
       <div class="large-6 columns">
         <h1>California<br>Tavern</h1>
@@ -33,4 +33,11 @@
         </ul>
       </div>
     </div>
-  </div>
+  </nav>
+  
+  <section id="intro">
+    <div class="row">
+      <div class="large-12 columns">
+      </div>
+    </div>
+  </section>
