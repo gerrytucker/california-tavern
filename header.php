@@ -13,10 +13,10 @@
 
   <nav>
     <div class="row">
-      <div class="large-6 columns">
+      <div class="large-4 columns">
         <h1>California<br>Tavern</h1>
       </div>
-      <div class="large-6 columns">
+      <div class="large-8 columns">
         <ul class="inline-list">
           <li>
             <a href="#">Beer</a>
