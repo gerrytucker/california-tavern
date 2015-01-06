@@ -13,7 +13,7 @@
 
   <nav>
     <div class="row">
-      <div class="large-3 columns">
+      <div class="large-3 columns" id="navheading">
         <h1>California<br>Tavern</h1>
       </div>
       <div class="large-9 columns">
