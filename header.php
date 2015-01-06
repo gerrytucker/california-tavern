@@ -17,7 +17,7 @@
         <h1>California<br>Tavern</h1>
       </div>
       <div class="large-9 columns">
-        <ul class="inline-list">
+        <ul class="inline-list" id="navitems">
           <li>
             <a href="#beer">Our Beer</a>
           </li>
