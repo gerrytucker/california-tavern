@@ -19,16 +19,16 @@
       <div class="large-8 columns">
         <ul class="inline-list">
           <li>
-            <a href="#">Beer</a>
+            <a href="#beer">Our Beer</a>
           </li>
           <li>
-            <a href="#">Food</a>
+            <a href="#menu">Our Menu</a>
           </li>
           <li>
-            <a href="#">Music</a>
+            <a href="#story">Story</a>
           </li>
           <li>
-            <a href="#">History</a>
+            <a href="#events">Events</a>
           </li>
           <li>
             <a href="#">Pool Team</a>
@@ -38,9 +38,3 @@
     </div>
   </nav>
   
-  <section id="intro">
-    <div class="row">
-      <div class="large-12 columns">
-      </div>
-    </div>
-  </section>
