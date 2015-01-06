@@ -17,6 +17,7 @@
     <div class="row">
       <div class="large-12 columns">
         <h2>Our Menu</h2>
+        <h3>A dish to suit everyones taste!</h3>
       </div>
     </div>
   </section>
