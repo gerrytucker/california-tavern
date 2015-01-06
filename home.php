@@ -22,4 +22,13 @@
     </div>
   </section>
 
+  <section id="story">
+    <div class="row">
+      <div class="large-12 columns">
+        <h2>Our Story</h2>
+        <h3>200 hundred years in the making!</h3>
+      </div>
+    </div>
+  </section>
+
 <?php get_footer(); ?>
