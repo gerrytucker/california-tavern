@@ -19,6 +19,9 @@
       <div class="large-6 columns">
         <ul class="inline-list">
           <li>
+            <a href="#">Beer</a>
+          </li>
+          <li>
             <a href="#">Food</a>
           </li>
           <li>
