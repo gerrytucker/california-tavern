@@ -28,7 +28,10 @@
             <a href="#story">Story</a>
           </li>
           <li>
-            <a href="#events">Events</a>
+            <a href="#music">Music</a>
+          </li>
+          <li>
+            <a href="#location">Find Us</a>
           </li>
           <li>
             <a href="#contact">Contact Us</a>

@@ -31,4 +31,28 @@
     </div>
   </section>
 
+  <section id="music">
+    <div class="row">
+      <div class="large-12 columns">
+        <h2>Music</h2>
+        <h3>The best music in Norfolk for free!</h3>
+      </div>
+    </div>
+  </section>
+
+  <section id="location">
+    <div class="row">
+      <div class="large-12 columns">
+        <h2>Find Us</h2>
+        <h3>A stones throw from the beach!</h3>
+        <div class="row">
+          <div class="large-8 columns">
+          </div>
+          <div class="large-4 columns">
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
 <?php get_footer(); ?>
