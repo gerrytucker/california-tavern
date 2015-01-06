@@ -10,11 +10,12 @@
     <?php wp_head(); ?>
 </head>
 <body>
+  <a id="top"></a>
 
   <nav>
     <div class="row">
-      <div class="large-3 columns" id="navheading">
-        <h1>California<br>Tavern</h1>
+      <div class="large-3 columns">
+        <h1 id="navheading"><a href="#top">California<br>Tavern</a></h1>
       </div>
       <div class="large-9 columns">
         <ul class="inline-list" id="navitems">
