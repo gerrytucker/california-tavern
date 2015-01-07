@@ -7,6 +7,15 @@
     </div>
   </section>
 
+  <section id="beer">
+    <div class="row">
+      <div class="large-12 columns">
+        <h2>Our Beer</h2>
+        <h3>Specialty real ales and all your favourites!</h3>
+      </div>
+    </div>
+  </section>
+
   <section id="menu">
     <div class="row">
       <div class="large-12 columns">
