@@ -11,7 +11,11 @@
 </head>
 <body>
   <div class="loader">
-    <div class="preloader"></div>
+    <div class="preloader">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
   </div>
   <div id="container">
   <a id="top"></a>
