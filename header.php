@@ -10,6 +10,7 @@
     <?php wp_head(); ?>
 </head>
 <body>
+  <div class="loader"></div>
   <div id="container">
   <a id="top"></a>
 
