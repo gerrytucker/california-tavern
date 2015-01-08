@@ -103,4 +103,29 @@ function set_ie_edge() {
 	
 }
 
-?>
+
+/**
+ * Restaurant custom post type & taxonomies
+ */
+register_post_type('dishes', array(
+  'label' => __('Dishes'),
+  'singular_label' => __('Dish'),
+  'public' => true,
+  'show_ui' => true,
+  'capability_type' => 'post',
+  'hierarchical' => false,
+  'query_var' => false,
+  'supports' => array(
+    'title',
+    'editor',
+    'excerpt',
+    'thumbnail',
+    'author',
+    'page-attributes'
+  )
+));
+
+register_taxonomy('dish_types', 'dishes', array(
+  'label' => __('Dish Type'),
+  'hierarchical' => true
+));
