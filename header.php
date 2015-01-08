@@ -12,6 +12,15 @@
 <body>
   <a id="top"></a>
 
+  <nav class="top-bar show-for-small-only" data-topbar role="navigation">
+    <ul class="title-area">
+      <li class="name">
+        <h1><a href="#top"><?php bloginfo('name'); ?></a></h1>
+      </li>
+      <li class="toggle-topbar menu-icon"><a href="#"><span></span></a></li>
+    </ul>
+  </nav>
+  
   <nav class="hide-for-small">
     <div class="row">
       <div class="large-3 columns">
