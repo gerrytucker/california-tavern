@@ -10,17 +10,9 @@
     <?php wp_head(); ?>
 </head>
 <body>
-  <div class="loader">
-    <div class="preloader">
-      <span></span>
-      <span></span>
-      <span></span>
-    </div>
-  </div>
-  <div id="container">
   <a id="top"></a>
 
-  <nav>
+  <nav class="hide-for-small">
     <div class="row">
       <div class="large-3 columns">
         <h1 id="navheading"><a href="#top">California<br>Tavern</a></h1>
