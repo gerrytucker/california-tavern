@@ -12,15 +12,34 @@
 <body>
   <a id="top"></a>
 
-  <nav class="top-bar show-for-small-only" data-topbar role="navigation">
-    <ul class="title-area">
-      <li class="name">
-        <h1><a href="#top"><?php bloginfo('name'); ?></a></h1>
-      </li>
-      <li class="toggle-topbar menu-icon"><a href="#"><span></span></a></li>
-    </ul>
-  </nav>
-  
+  <div class="sticky">
+    <nav class="top-bar show-for-small-only" data-topbar role="navigation">
+      <ul class="title-area">
+        <li class="name"></li>
+        <li class="toggle-topbar menu-icon"><a href="#"><span></span></a></li>
+      </ul>
+      <section class="top-bar-section">
+        <ul class="right">
+          <li>
+            <a href="#beer">Our Beer</a>
+          </li>
+          <li>
+            <a href="#menu">Our Menu</a>
+          </li>
+          <li>
+            <a href="#story">Story</a>
+          </li>
+          <li>
+            <a href="#music">Music</a>
+          </li>
+          <li>
+            <a href="#location">Find Us</a>
+          </li>
+        </ul>
+      </section>
+    </nav>
+  </div>
+
   <nav class="hide-for-small">
     <div class="row">
       <div class="large-3 columns">
