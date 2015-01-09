@@ -51,6 +51,16 @@ function add_open_graph_tags() {
 	}
 }
 
+
+// Remove query strings from static resources
+add_filter('script_loader_src', 'remove_script_version', 15, 1);
+add_filter('style_loader_src', 'remove_script_version', 15, 1);
+function remove_script_version($src) {
+  $parts = explode('?', $src);
+  return $parts[0];
+}
+
+
 // Setup theme specific features
 add_action( 'after_setup_theme', 'setup_theme_features' );
 function setup_theme_features() {
