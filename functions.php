@@ -22,7 +22,7 @@ function enqueue_theme_scripts() {
 	wp_register_script( 'jquery', "http" . ($_SERVER['SERVER_PORT'] == 443 ? "s" : "") . "://code.jquery.com/jquery-2.1.3.min.js", false, false, true );
 	wp_enqueue_script( 'jquery', false, false, true );
 	wp_enqueue_script( 'fontloader', get_stylesheet_directory_uri() . '/fontloader.min.js', false, false, false );
-    wp_enqueue_script( 'jquery', 'http://maps.google.com/maps/api/js?sensor=true', 'jquery', false, false, true );
+    wp_enqueue_script( 'gmaps', 'http://maps.google.com/maps/api/js?sensor=true', 'jquery', false, false, true );
 	wp_enqueue_script( 'app', get_stylesheet_directory_uri() . '/app.min.js', 'jquery', false, true );
 	wp_enqueue_style( 'style', get_stylesheet_directory_uri() . '/style.css' );
 
